@@ -6,8 +6,8 @@
 // גיל 18-21  -שללום לצבא
 
 
-const age = 9;
-
+const age = 5;
+console.log('hi')
 switch (age){
     case 3:
     case 4:
@@ -29,4 +29,8 @@ switch (age){
 
 
 
+
 }
+
+
+console.log('hi')
