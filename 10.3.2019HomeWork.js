@@ -18,11 +18,13 @@ const person = {
 }
 const personFriends = person.friends;
 for (let i=0; i < personFriends.length; i++){
-    if(personFriends[i][0]==='i')
+    // if(personFriends[i][0]==='i')
+
     {
         console.log(personFriends[i]);
     }
     else{
         continue
+    
     }
 }
